@@ -28,7 +28,7 @@ rankit에 등록된 사용자의 정보를 Githyb ReadMe에 이미지로 표현�
    
 ![badge (4)](https://github.com/user-attachments/assets/1ccc17d3-f732-4c96-af2b-d4dd2b14cb00)
 
- - 등록된 유저 일시
+ - 미등록된 유저 일시
    
 ![NoData2](https://github.com/user-attachments/assets/2d6251dd-44ba-443a-b7c9-ec751b740785)
 
