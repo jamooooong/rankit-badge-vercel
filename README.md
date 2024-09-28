@@ -22,6 +22,13 @@ rankit에 등록된 사용자의 정보를 Githyb ReadMe에 이미지로 표현�
 
 <br>
 
+# 🧪local test 방법
+1. repo clone
+2. npm i
+3. node server.js
+
+<br>
+
 # ✨ 주요 기능
 
  - 등록된 유저 일시
