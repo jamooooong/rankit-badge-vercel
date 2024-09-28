@@ -24,7 +24,7 @@ rankit에 등록된 사용자의 정보를 Githyb ReadMe에 이미지로 표현�
 
 # 🧪local test 방법
 1. repo clone
-2. npm i
+2. npm ci --production
 3. node server.js
 
 <br>
