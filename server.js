@@ -40,4 +40,5 @@ app.get('/badge', async (req, res) => {
 
 app.listen(port, () => {
   console.log(`Server running for rankit-badge at port: ${port}`);
+  console.log(`테스트용 링크 http://localhost:${port}/badge?name=User1`);
 });
