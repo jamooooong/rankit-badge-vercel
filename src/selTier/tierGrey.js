@@ -1,4 +1,4 @@
-function TierBlack(){
+function TierGrey(){
     return
     `
     <g id="tier-img-input">
@@ -8,5 +8,5 @@ function TierBlack(){
 }
 
 module.exports = {
-    TierBlack
+    TierGrey
 }

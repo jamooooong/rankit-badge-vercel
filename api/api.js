@@ -8,6 +8,7 @@ async function getUserRank(username) {
         });
         
         console.log('API 응답:', response.data);
+        console.log('Response Status:', response.status);
         return response.data;
     } catch (error) {
         console.error('API 호출 오류:', error.response ? error.response.data : error.message);
