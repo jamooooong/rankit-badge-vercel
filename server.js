@@ -32,7 +32,7 @@ app.get('/badge', async (req, res) => {
     const svg = generateSVG(name, langName, formattedScore, formattedRank, grade);
     sendSVGResponse(res, svg);
   } catch (error) {
-    console.error('Error generating badge:', error);
+    console.error('Error generating badge:', error.status);
     const svg = generateFailSVG();
     sendSVGResponse(res, svg);
   }

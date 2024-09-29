@@ -5,7 +5,7 @@ function generateSVG(name, langName, score, userRank, grade){
     GREEN: require('./selTier/tierGreen').TierGreen, //5티어
     BLUE : require('./selTier/tierBlue').TierBlue, //4티어
     RED: require('./selTier/tierRed').TierRed, //3티어
-    BLACK: require('./selTier/tierBlack').TierBlack, //2티어
+    GREY: require('./selTier/tierGrey').TierGrey, //2티어
     PURPLE: require('./selTier/tierPurple').TierPurple, //1티어
   };
   
