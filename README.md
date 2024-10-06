@@ -15,9 +15,9 @@ rankit에 등록된 사용자의 정보를 Githyb ReadMe에 이미지로 표현�
 배포된 주소 뒤에 /badge?name={등록된 사용자 id} 로 접근하여 동적 생성된 svg이미지를 불러올 수 있습니다.
 
 ```
-[![Badge](https://rankit.run/badge?name=유저아이디)](https://www.rankit.run)
+[![Badge](https://badge.rankit.run/badge?name=유저아이디)](https://www.rankit.run)
 ```
-[![Badge](https://rankit-badge-vercel-jamooooongs-projects.vercel.app/badge?name=User1)](https://www.rankit.run)
+[![Badge](https://badge.rankit.run/badge?name=User1)](https://www.rankit.run)
 
 <br>
 
